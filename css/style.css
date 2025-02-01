@@ -384,3 +384,11 @@ footer .link-group a:hover{
     color: #fff;
     animation: pulse 3s infinite;
 }
+
+
+@media screen and (max-width: 767px) {
+    .c-btn {
+      width: 100%;
+    }
+  }
+  
